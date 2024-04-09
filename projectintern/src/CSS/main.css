@@ -1,0 +1,137 @@
+.homeImg1{
+    width: 1440px;
+    height: 700px;
+    top: 77px;
+    gap: 0px;
+    opacity: 0px;
+}
+.heroSection{
+    width: 1440px;
+    height: 700px;
+    top: 77px;
+}
+.homeImg2-container{
+    background-image: linear-gradient(to right, #1CBDDD, #4DCA79);
+    width: 630px;
+    height: 306px;
+    top: 394px;
+    left: 80px;
+    padding: 24px,40px,32px,40px;
+    gap: 20px;
+    position: absolute;
+    bottom: 8px;
+}
+.home-container {
+    align-items: center;
+}
+.heroSection{
+    background-image:url('../asserts/mainImg1.png');
+}
+
+.homeImg2{
+    width: 556px;
+    height: 192px;
+    font-family: Inter;
+    font-weight: 48px;
+    line-height: 48px;
+    letter-spacing:-2%;
+    background-repeat: no-repeat;
+}
+.homeIma2-container2{
+    padding-left: 37px;
+    padding-top: 25px;
+    padding-bottom: 25px;   
+}
+.button_main{
+    background-color: #F28D35;
+    color: white;
+    width: Hug (214px)px;
+    height: Hug (38px)px;
+    padding: 12px 20px 12px 20px;
+    gap: 8px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    border: 0cap;
+    margin-top: 25px;
+    font-size: 14px; 
+}
+.frame499{
+    display: flex;
+    width: Hug (1064px)px;
+    height: Hug (416px)px;
+    top: 857;
+    left: 188px;
+    gap: 108px;
+   
+}
+.frame92{
+    width: Fixed (542px)px;
+    height: Hug (206px)px;
+    gap: 20px;
+    opacity: 0px;
+    position: relative;
+    padding-top: 120px;
+    font-family: Poppins; 
+}
+
+.para1{
+    width: 542px;
+    height: 95px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.36px;
+    text-align: left;
+    margin-top: 25px;
+    color: black;
+}
+
+.main_topic1{  
+    font-family: Poppins;
+    font-size: 27px;
+    font-weight: 600;
+    line-height: 33px;
+    letter-spacing: 0.4000000059604645px;
+    color: #6B3CC9;
+}
+
+.image2-container{
+    float: left;
+}
+
+.container2{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    align-content: center;
+}
+
+.faq{
+    width: Hug (846px)px;
+    height: Hug (392px)px;
+    top: 1847px;
+    left: 297px;
+    gap: 28px;
+    opacity: 0px;
+    align-items: center;
+}
+.frame12527{
+    width: Hug ;
+    height: Hug;
+    gap: 15px;
+    opacity: 0px;
+}
+.questions{
+    width: Fixed;
+    height: Hug;
+    padding: 24px 0px 0px 0px;
+    gap: 13px;
+    border-radius: 7px 0px 0px 0px;
+    opacity: 0px;
+
+}
+.main_topic1.center {
+    text-align: center !important;
+}

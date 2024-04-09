@@ -1,0 +1,40 @@
+.navbar {
+    background-color: #6B3CC9 !important;
+    height: hug;
+    width: 1440px;
+    justify-content: space-between;
+    padding: 26px,80px,26px,80px;    
+  }
+
+  .navbar-brand {
+    width: 14.27px;
+    height: 24.51px;
+    top: 0.01px;
+    left: 224.61px;
+    gap: 0px;
+    opacity: 0px;
+    }
+.nav-link {
+    color: white !important; 
+}
+.navbar-nav{
+    font-family: inter;
+    font-size: 14px;
+    line-height: 16.94px;
+    font-weight: 500;
+    
+}
+.collapse navbar-collapse{
+    width: 381px;
+    height: 17px;
+    gap: 28px;
+}
+.shapes{
+    color: aliceblue;
+    width: 46.74px;
+    height: 36.11px;
+    top: -11.11px;
+    gap: 0px;
+    opacity: 0px;
+
+}

@@ -1,0 +1,56 @@
+.footer {
+    background-color: #6B3CC9 !important;
+    width: Fixed (1,440px)px;
+    height: Hug (266px)px;
+    top: 2319px;
+    padding: 40px 80px 20px 80px;
+    gap: 40px;
+    opacity: 0px;    
+    color: #FFFFFF !important;  
+    padding: 40px 80px 20px 80px;
+ 
+  }
+
+.list-group-item{
+    background-color: #6B3CC9;
+  }
+
+.footer-topic1{
+    width: 179px;
+    height: 25px;
+    font-family: Inter;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25.41px;
+    text-align: left;
+    color: #FFFFFF !important;
+}
+.list-footer{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.94px;
+    text-align: left;
+    width: 56px;
+    height: 17px;
+    margin-top: 12px;
+    list-style-type: none;
+    color:#FFFFFF;
+}
+.list-unstyled{
+    width: Hug;
+    height: Hug ;
+    gap: 12px;
+    opacity: 0px;
+    list-style-type: none;
+    color:#FFFFFF;
+}
+
+.footer-part {
+    display: flex;
+    gap: 40px;
+}
+
+.footer-part-2 {
+    float: left;
+}
